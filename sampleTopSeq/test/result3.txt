@@ -1,0 +1,3 @@
+ATATAT	1
+ATCGEG	1
+others	0

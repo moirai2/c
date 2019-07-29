@@ -1,0 +1,5 @@
+# IDs of sequence 'Number3' and quality 'Number5' are not same.
+@Number3
+GGGGGGGGGGG
++Number5
+///////////

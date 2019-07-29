@@ -1,0 +1,4 @@
+test/input1.fq	2015	2500
+test/input2.fq	4	12
+test/input3.fa	2	2
+test/input4.sam	2	4

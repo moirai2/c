@@ -1,0 +1,4 @@
+	test/dir1	test/dir2	test/dir3
+input1	6	12	14
+input2	4	8	9
+input3	1	3	4

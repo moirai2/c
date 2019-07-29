@@ -1,0 +1,10 @@
+test/input.sam	2102975 B
+test/input.sam	7249 line
+test/input.sam	27 head line
+test/input.sam	7222 SAM line
+test/input.sam	6920 primary alignment
+test/input.sam	302 secondary alignment
+test/input.sam	0 unmapped sequence
+test/input.sam	3207 positive strand
+test/input.sam	4015 negative strand
+test/input.sam	6920 sequence

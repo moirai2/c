@@ -1,0 +1,3 @@
+test/input.fa	96 B
+test/input.fa	8 line
+test/input.fa	4 sequence

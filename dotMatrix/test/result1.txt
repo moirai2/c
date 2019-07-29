@@ -1,0 +1,30 @@
+>mismatch_start
+Query 1 CAATTCAGTTA 11
+         ||||||||||
+Sbjct 1 GAATTCAGTTA 11 
+10 match, 1 mismatch, 0 insertion, 0 deletion
+>mismatch_middle
+Query 1 GAATTCTGTTA 11
+        |||||| ||||
+Sbjct 1 GAATTCAGTTA 11 
+10 match, 1 mismatch, 0 insertion, 0 deletion
+>mismatch_end
+Query 1 GAATTCAGTT 10
+        ||||||||||
+Sbjct 1 GAATTCAGTT 10 
+10 match, 0 mismatch, 0 insertion, 0 deletion
+>deletion_start
+Query 1 AATTCAGTTA 10
+        ||||||||||
+Sbjct 2 AATTCAGTTA 11 
+10 match, 0 mismatch, 0 insertion, 0 deletion
+>deletion_middle
+Query 1 GAATTC-GTTA 10
+        |||||| ||||
+Sbjct 1 GAATTCAGTTA 11 
+10 match, 0 mismatch, 0 insertion, 1 deletion
+>deletion_end
+Query 1 GAATTCAGTT 10
+        ||||||||||
+Sbjct 1 GAATTCAGTT 10 
+10 match, 0 mismatch, 0 insertion, 0 deletion

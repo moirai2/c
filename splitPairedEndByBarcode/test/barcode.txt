@@ -1,0 +1,5 @@
+filename	barcode	samplename	regular_expression
+input1	AAA	sampleA	^AAA
+input1	CCC	sampleB	^CCC
+input2	GGG	sampleC	^GGG
+input2	TTT	sampleD	^TTT

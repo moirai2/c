@@ -1,0 +1,4 @@
+<A HREF="image/australia.gif"><IMG width="300" height="" SRC="image/australia.gif"></A>
+<A HREF="image/brazil.gif"><IMG width="300" height="" SRC="image/brazil.gif"></A>
+<A HREF="image/croatia.gif"><IMG width="300" height="" SRC="image/croatia.gif"></A>
+<A HREF="japan.gif"><IMG width="300" height="" SRC="japan.gif"></A>

@@ -1,0 +1,4 @@
+	A	B	C
+input1	6	6	2
+input2	4	4	1
+input3	1	2	1

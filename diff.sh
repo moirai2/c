@@ -1,0 +1,21 @@
+
+Basename.pl -g "advanced_io.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "advanced_io.c" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "chromosome.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "chromosome.c" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "distribution.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "distribution.c" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "dotmatrix.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "dotmatrix.c" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "hashtable.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "hashtable.c" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "interface.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "interface.c" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "io.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "io.c" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "reader.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "reader.c" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "regexp.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "regexp.c" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "vector.h" "diff ../library/[file] [path]" | Run.pl
+Basename.pl -g "vector.c" "diff ../library/[file] [path]" | Run.pl

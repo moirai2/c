@@ -1,0 +1,3 @@
+test/input.fq	192 B
+test/input.fq	16 line
+test/input.fq	4 sequence

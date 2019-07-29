@@ -1,0 +1,4 @@
+<IMG width="" height="" SRC="image/australia.gif">
+<IMG width="" height="" SRC="image/brazil.gif">
+<IMG width="" height="" SRC="image/croatia.gif">
+<IMG width="" height="" SRC="japan.gif">

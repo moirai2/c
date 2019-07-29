@@ -1,0 +1,3 @@
+AAA	1
+AAC	2
+others	133

@@ -1,0 +1,2 @@
+test/input.txt	192 B
+test/input.txt	16 line

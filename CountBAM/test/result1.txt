@@ -1,0 +1,10 @@
+test/input.bam	664102 B
+test/input.bam	7222 line
+test/input.bam	0 head line
+test/input.bam	7222 BAM line
+test/input.bam	6920 primary alignment
+test/input.bam	302 secondary alignment
+test/input.bam	0 unmapped sequence
+test/input.bam	3207 positive strand
+test/input.bam	4015 negative strand
+test/input.bam	6920 sequence

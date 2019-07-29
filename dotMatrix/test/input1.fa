@@ -1,0 +1,14 @@
+>original
+GGATCGA
+>mismatch_start
+CAATTCAGTTA
+>mismatch_middle
+GAATTCTGTTA
+>mismatch_end
+GAATTCAGTTC
+>deletion_start
+AATTCAGTTA
+>deletion_middle
+GAATTCGTTA
+>deletion_end
+GAATTCAGTT

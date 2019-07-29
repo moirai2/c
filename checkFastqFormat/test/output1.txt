@@ -1,0 +1,5 @@
+# Lengths of sequence (11bp) and quality (10bp) are not same.
+@Number2
+CCCCCCCCCCC
++Number2
+//////////

@@ -1,0 +1,1 @@
+redundancy	1.24

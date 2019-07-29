@@ -1,0 +1,5 @@
+Akira	2
+Hiroko	2
+Hiromi	1
+Hiroyuki	1
+Yukiko	3

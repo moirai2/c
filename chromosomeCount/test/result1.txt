@@ -1,0 +1,2 @@
+chromosome	primary	secondary
+chr1	53	24
